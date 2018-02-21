@@ -1,2 +1,0 @@
-# weatherexample
-test
